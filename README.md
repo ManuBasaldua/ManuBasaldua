@@ -1,12 +1,13 @@
 ### Hi there 👋, My name is Manuela
 #### **I'm** ***Web Developer***
-![](https://i.gifer.com/6kh.gif)
+<img src="https://media.giphy.com/media/SScTyz7dQ0Gf7c9dZ9/giphy.gif" />
 
-*I really love cats <3 :")*
 
-*I am currently looking for my first IT job. :D*
+*I really love cats ❤️😊*
 
-*I really want to have opportunities to continue learning new skills and technologies.*
+*I am currently looking for my first IT job 🚀.*
+
+*I really want to have opportunities to continue learning new skills and technologies 🤓*
 
 Skills:  REACT / JS / HTML / CSS / Nodejs / Express
 
