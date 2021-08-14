@@ -9,7 +9,7 @@
 
 *I really want to have opportunities to continue learning new skills and technologies 🤓*
 
-Skills:   JS / HTML / CSS / REACT / REDUX
+Skills:   JS / HTML / CSS / BOOTSTRAP / STYLED-COMPONENTS / REACT / REDUX 
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning React, Redux
