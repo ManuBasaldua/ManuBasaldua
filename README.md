@@ -18,3 +18,7 @@ Skills:   JS / HTML / CSS / BOOTSTRAP / STYLED-COMPONENTS / REACT / REDUX
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' target='_blank'>](https://github.com/ManuBasaldua) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' target='_blank'>]<a href='(https://www.linkedin.com/in/manuela-basaldua/)' taget='_blank'></a> [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' target='_blank'>](https://www.instagram.com/manu_basaldua17/)  
+
+
+
+<a href='(https://www.linkedin.com/in/manuela-basaldua/)' taget='_blank' ><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' height='40'></a>
