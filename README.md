@@ -5,6 +5,8 @@
 
 *I really love cats ❤️😊*
 
+*I'm really fan of freeCodeCamp ⚡*
+
 *I am currently looking for my first IT job 🚀.*
 
 *I really want to have opportunities to continue learning new skills and technologies 🤓*
@@ -16,11 +18,7 @@ Skills:
 
 
 
-
-
-
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning React, Redux
+- 🌱 I’m currently learning Nodejs, Express, MongoDB.
 - 📫 How to reach me: https://www.linkedin.com/in/manuela-basaldua/ 
 - 😄 Pronouns: Manu :) 
 
