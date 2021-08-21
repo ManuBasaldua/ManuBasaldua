@@ -9,7 +9,9 @@
 
 *I really want to have opportunities to continue learning new skills and technologies 🤓*
 
-Skills:   JS / HTML / CSS / BOOTSTRAP / STYLED-COMPONENTS / REACT / REDUX 
+Skills:  JS / HTML / CSS / BOOTSTRAP / STYLED-COMPONENTS / REACT / REDUX 
+![javascript_icon_130900]<img src='https://user-images.githubusercontent.com/69776374/130335092-83ed8503-c4dd-417a-a917-520b9229c52b.png' height='40'>
+
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning React, Redux
