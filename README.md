@@ -5,7 +5,7 @@
 
 *I really love cats ❤️😊*
 
-*I'm really fan of freeCodeCamp ⚡*
+*I'm really fan of freeCodeCamp ✨ ⚡*
 
 *I am currently looking for my first IT job 🚀.*
 
